@@ -1,1 +1,0 @@
-web: java -jar target/telegramSpotifyBot-0.0.1-SNAPSHOT-jar-with-dependencies.jar AQDptfN3cLkyWQI1MyEpDJLX_RKEKFDgszCA7DUnz8h-3L7ZjI8mu8TMz5D7oVzZk3CiS8rZp0aHcViVjjvwUPhEhNVPO-Lbb2q1OrMzBs9m-VtndkOniQaiNv0UihTaslyv-Uv4qfJ4WFdk6KtcrwsKNUffD4dwEUEeDe5qrGVOj3BNnpdvutjGNXOmOqEv
